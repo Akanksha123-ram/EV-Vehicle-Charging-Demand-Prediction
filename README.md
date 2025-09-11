@@ -2,13 +2,13 @@
 
 
 ```markdown
-#⚡EV-Vehicle-Charging-Demand-Prediction
+## ⚡ EV-Vehicle-Charging-Demand-Prediction
 
 A machine learning–based project developed under **Edunet Shell Foundation** that predicts the demand for **Electric Vehicle (EV) charging stations**. The project aims to support smart energy management, optimize charging infrastructure, and encourage the adoption of sustainable mobility solutions.  
 
 ---
 
-# 📌 Overview
+## 📌 Overview
 The increasing adoption of electric vehicles (EVs) demands efficient planning and optimization of charging infrastructure. This project leverages **data-driven techniques** and **predictive modeling** to forecast charging demand patterns.  
 
 By predicting when and where EVs are likely to require charging, utility providers and policymakers can:
