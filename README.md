@@ -1,7 +1,5 @@
 # This is my project of EV-Vehicle-Charging-Demand-Prediction by Edunet Shell foundation
 
-
-``markdown
 ## ⚡ EV-Vehicle-Charging-Demand-Prediction
 
 A machine learning–based project developed under **Edunet Shell Foundation** that predicts the demand for **Electric Vehicle (EV) charging stations**. The project aims to support smart energy management, optimize charging infrastructure, and encourage the adoption of sustainable mobility solutions.  
