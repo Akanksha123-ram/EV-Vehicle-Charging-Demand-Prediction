@@ -1,7 +1,7 @@
 # This is my project of EV-Vehicle-Charging-Demand-Prediction by Edunet Shell foundation
 
 
-```markdown
+``markdown
 ## ⚡ EV-Vehicle-Charging-Demand-Prediction
 
 A machine learning–based project developed under **Edunet Shell Foundation** that predicts the demand for **Electric Vehicle (EV) charging stations**. The project aims to support smart energy management, optimize charging infrastructure, and encourage the adoption of sustainable mobility solutions.  
@@ -55,10 +55,10 @@ EV-Vehicle-Charging-Demand-Prediction/
 
 ## ⚙️ Installation & Setup
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/EV-Vehicle-Charging-Demand-Prediction.git
+   ``bash
+   git clone https://github.com/Akanksha123-ram/EV-Vehicle-Charging-Demand-Prediction.git
    cd EV-Vehicle-Charging-Demand-Prediction
-````
+``
 
 2. Create and activate a virtual environment (optional but recommended):
 
